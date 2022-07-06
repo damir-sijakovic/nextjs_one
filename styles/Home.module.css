@@ -114,3 +114,9 @@
     flex-direction: column;
   }
 }
+
+.ds-center{
+	display:flex;
+    justify-content: center;
+    align-items: center;
+}
